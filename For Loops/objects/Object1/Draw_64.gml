@@ -1,0 +1,1 @@
+draw_text_colour(32, 32, "Ducks: " + string(DUCK_COUNT), 0, 0, 0, 0, 1);
